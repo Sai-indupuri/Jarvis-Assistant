@@ -66,7 +66,7 @@ Jarvis is a Python-based virtual assistant that recognizes spoken commands and p
 ## Usage
 
  **Run the Main Program**:
-    ```bash
+    ```
     python src/main.py
     ```
 
